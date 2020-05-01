@@ -1,0 +1,3 @@
+inicio nombre teresa de jesus gomez ramirez
+inicio nacimiento 3 de octubre 1970
+inicio validacion de conocimiento
