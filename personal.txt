@@ -5,4 +5,8 @@ primaria lopez portillo 3 años
 primaria susana  3 años
 secundaria madame curie 3 años
 vocacional lazaro cardenas
-probar el merge - este cambio es en master
+>>>>>>>>>>>>>>>>>>>>>>> se agrego 3 lineas
+marge aprendi cuando hay conflicto 
+cambio de rama a cabecera 
+para corregir el comflicto 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
