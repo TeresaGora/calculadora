@@ -10,3 +10,4 @@ marge aprendi cuando hay conflicto
 cambio de rama a cabecera 
 para corregir el comflicto 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+agrego linea para validar commit en el reporsitoritio remoto
