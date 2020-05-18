@@ -11,3 +11,4 @@ cambio de rama a cabecera
 para corregir el comflicto 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 agrego linea para validar commit en el reporsitoritio remoto
+probar ssh conexion al repositorio remoto
